@@ -21,7 +21,7 @@ const Hero = () => {
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold mb-6 animate-fade-in" style={{ animationDelay: "100ms" }}>
               <span className="block">Felix Antony</span>
               <span className="block mt-2 text-muted-foreground">
-                Backend & ML/AI Engineer
+                Software & ML/AI Engineer
               </span>
             </h1>
             <p className="text-lg md:text-xl mb-8 max-w-2xl text-muted-foreground animate-fade-in" style={{ animationDelay: "200ms" }}>
