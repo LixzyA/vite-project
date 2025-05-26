@@ -8,7 +8,6 @@ const Footer = () => {
     { icon: Github, href: "https://github.com/LixzyA" },
     { icon: Instagram, href: "https://www.instagram.com/felix.a._/" },
     { icon: Linkedin, href: "https://www.linkedin.com/in/felix-antony-95894b206/" },
-    // { icon: Facebook, href: "#" },
   ];
 
   return (
