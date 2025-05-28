@@ -48,7 +48,7 @@ const Header = () => {
                   {item}
                 </button>
               ))}
-              <Button onClick={() => window.open("https://drive.google.com/file/d/1G-eNLn53k-Dj14IrkYFESVdsA8fEyiLB/view?usp=drive_link", "_blank")} size="sm">
+              <Button onClick={() => window.open("https://drive.google.com/drive/folders/1L5UOzy6x5H-8Swm6JH4ipqN8l3icKW5W?usp=drive_link", "_blank")} size="sm">
                 Resume
               </Button>
             </nav>
@@ -80,7 +80,7 @@ const Header = () => {
               </button>
             ))}
             <div className="px-3 py-2">
-              <Button onClick={() => window.open("https://drive.google.com/file/d/1G-eNLn53k-Dj14IrkYFESVdsA8fEyiLB/view?usp=drive_link", "_blank")} className="w-full">
+              <Button onClick={() => window.open("https://drive.google.com/drive/folders/1L5UOzy6x5H-8Swm6JH4ipqN8l3icKW5W?usp=drive_link", "_blank")} className="w-full">
                 Resume
               </Button>
             </div>
