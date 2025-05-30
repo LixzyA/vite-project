@@ -1,11 +1,11 @@
 import { Card, CardContent } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { FaReact, FaDatabase } from "react-icons/fa";
+import { FaReact, FaDatabase, FaMicrosoft } from "react-icons/fa";
 import { SiNextdotjs, SiBootstrap, SiTailwindcss, SiFastapi, 
   SiMysql, SiSqlite, SiHtml5, SiCss3, SiJavascript, SiDjango,
   SiPytest, SiScrapy, SiSqlalchemy, SiScikitlearn, SiTensorflow, SiKeras,
   SiPytorch, SiNumpy, SiPandas, SiPlotly, SiOpencv,
-  SiPython, SiApachespark, SiSpacy, SiHuggingface, SiApachehadoop
+  SiPython, SiApachespark, SiSpacy, SiHuggingface, SiApachehadoop, SiPowers
  
  } from "react-icons/si";
  import { DiMsqlServer } from "react-icons/di";
@@ -58,6 +58,7 @@ const allSkills = [
       { name: "PySpark", icon: <SiApachespark className="mr-2 h-5 w-5" /> },
       { name: "Apache Hadoop", icon: <SiApachehadoop className="mr-2 h-5 w-5" /> },
       { name: "HuggingFace", icon: <SiHuggingface className="mr-2 h-5 w-5" /> },
+      { name: "Power BI", icon: <FaMicrosoft className="mr-2 h-5 w-5" /> },
     ],
   },
 ];
