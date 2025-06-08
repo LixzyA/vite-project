@@ -15,7 +15,7 @@ const Footer = () => {
       <div className="container px-4 sm:px-6 lg:px-8 py-12">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <span className="text-2xl font-bold">Portfolio</span>
+            <span className="text-2xl font-bold">Felix Antony</span>
             <p className="mt-2 text-primary-foreground/70 max-w-md">
               {/* Crafting digital experiences that make an impact through thoughtful design and development. */}
               Developing systems and implementing machine learning solutions to solve complex problems.
