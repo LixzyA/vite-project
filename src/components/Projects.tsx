@@ -26,11 +26,11 @@ const Projects = () => {
       link: "https://github.com/LixzyA/Email-spam-detection",
     },
     {
-      title: "Predict Calorie Expenditure",
-      description: "This project predicts calorie expenditure using machine learning models based on physical activity data.",
-      image: "Calorie Expenditure.png",
-      tags: ["Regression", "EDA", "Feature Engineering"],
-      link: "https://github.com/LixzyA/Predict-Calorie-Expenditure",
+      title: "Customer Churn Prediction",
+      description: "This project implements a customer churning detection using a few machine learning algorithms and deep learning, achieving a precision score of 82% on churning customer.",
+      image: "Churn.png",
+      tags: ["Classification", "EDA", "Feature Engineering", "Machine Learning", "Deep Learning"],
+      link: "https://github.com/LixzyA/Telco-Churn",
     },
   ];
 
